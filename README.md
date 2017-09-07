@@ -26,7 +26,8 @@ _Write code for listing reactions from a github issue._
 [Click Here](https://github.ncsu.edu/assinsin/HW1/blob/master/listReactions.js) </br>
 
 ### Task 2 - About Me (For SE - Github Pages)
-[Click Here](https://pages.github.ncsu.edu/assinsin/HW1/) - to go to github page for this repo
+[Click Here](https://pages.github.ncsu.edu/assinsin/HW1/) - to go to github page for this repo 
+Link is https://pages.github.ncsu.edu/assinsin/HW1/
 
 ### Task 3 - Concepts (For SE)
 [Click Here]()
