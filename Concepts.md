@@ -23,7 +23,6 @@ a) Language - GraphQL is a _Query language_, whereas REST uses _query string_ (n
   }
 }
 ``` 
-</br>
 ```sh
 {
   "company": {
@@ -34,7 +33,6 @@ a) Language - GraphQL is a _Query language_, whereas REST uses _query string_ (n
   }
 }
 ```
-</br>
 GraphQL beats the REST APIs, which in hand try to hand-roll their own query language functionality. </br>
 
 b) Architecture - REST is a _achirtectural concept_ of HTTP protocol, a network-based protocol. It has no specification or set of tools, and it is designed in such a manner that it could decouple an API from the client. Thus, it focuses on making API calls rather than on optimizing performance. GrapQL is a _query language_, has specification and set of tools. It is designed in such a manner that it could operate over a single endpoint via HTTP. Thus, GraphQL focuses over optimizing performance and flexibility. </br>
