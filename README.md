@@ -37,3 +37,9 @@ Link is https://pages.github.ncsu.edu/assinsin/HW1/
 
 ### Task 3 - Concepts (For SE)
 [Click Here](https://github.ncsu.edu/assinsin/HW1/blob/master/Concepts.md) - Link to Concepts answers
+
+### Task 4 - Script.yml file (For DevOps)
+[Click Here]() - Link to script.yml (YAML) file
+
+### Task 4 - Screencast (For DevOps)
+[Click Here]() - Link to youtube 

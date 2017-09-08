@@ -42,4 +42,3 @@ c) Performance - GraphQL is always the smallest possible request, which is good 
 d) Caching - REST is a endpoint based API, thus all clients use HTTP caching - to avoid refetching resources and to identify when two of resources are same. In GraphQL, there's no URL-like primitive, thus object cannot be uniquely identified globally. As HTTP uses whole pile of HTTP convention, which benefits API clients and API servers to work easily among themselves, thus REST api is better for caching. </br>
 
 e) Data Transfer - REST api handles CRUD operation, using JSON most of the time, but it could do other tasks as well - like uploading an image or a large file. Whereas GraphQL has a dedicated service, which could only be communicated in terms of fields. Thus, REST api can do more than, just sending fields forwards and backwards. </br>
-
