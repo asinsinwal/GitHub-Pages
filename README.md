@@ -39,7 +39,9 @@ Link is https://pages.github.ncsu.edu/assinsin/HW1/
 [Click Here](https://github.ncsu.edu/assinsin/HW1/blob/master/Concepts.md) - Link to Concepts answers
 
 ### Task 4 - Script.yml file (For DevOps)
-[Click Here]() - Link to script.yml (YAML) file
+[Click Here](https://github.ncsu.edu/assinsin/HW1/blob/master/script.yml) - Link to script.yml (YAML) file </br>
+
+_NOTE:_ [Vagrantfile](https://github.ncsu.edu/assinsin/HW1/blob/master/Vagrantfile) for vm in xenial64, is predefined. This vagrantfile is copied to remote by ansible script. 
 
 ### Task 4 - Screencast (For DevOps)
-[Click Here]() - Link to youtube 
+[Click Here](https://www.youtube.com/watch?v=okeSfFuXCBE) - Link to youtube 
